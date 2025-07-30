@@ -4,7 +4,7 @@ import CategoriesSection from "@/components/organisms/CategoriesSection";
 import FeaturedCakes from "@/components/organisms/FeaturedCakes";
 import SeasonalOffers from "@/components/organisms/SeasonalOffers";
 import { toast } from "react-toastify";
-import ApperIcon from "@/components/atoms/ApperIcon";
+import ApperIcon from "@/components/ApperIcon";
 
 const Homepage = ({ onSearch, onCategorySelect }) => {
   const [cartItems, setCartItems] = useState([]);
