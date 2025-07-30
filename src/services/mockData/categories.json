@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "name": "Birthday Cakes",
+    "imageUrl": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop",
+    "cakeCount": 6
+  },
+  {
+    "Id": 2,
+    "name": "Wedding Cakes",
+    "imageUrl": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=400&h=300&fit=crop",
+    "cakeCount": 3
+  },
+  {
+    "Id": 3,
+    "name": "Custom Cakes",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
+    "cakeCount": 4
+  },
+  {
+    "Id": 4,
+    "name": "Seasonal Specials",
+    "imageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=400&h=300&fit=crop",
+    "cakeCount": 4
+  },
+  {
+    "Id": 5,
+    "name": "Cupcakes",
+    "imageUrl": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb?w=400&h=300&fit=crop",
+    "cakeCount": 1
+  },
+  {
+    "Id": 6,
+    "name": "Mini Cakes",
+    "imageUrl": "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=400&h=300&fit=crop",
+    "cakeCount": 2
+  }
+]

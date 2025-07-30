@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "title": "Spring Wedding Special",
+    "description": "Get 20% off all wedding cakes ordered for spring weddings. Perfect for your magical day!",
+    "discountCode": "SPRING20",
+    "validUntil": "2024-06-30",
+    "bannerImageUrl": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=400&h=200&fit=crop"
+  },
+  {
+    "Id": 2,
+    "title": "Birthday Bash Bundle",
+    "description": "Order any birthday cake and get a dozen cupcakes for just $15 extra. Make it a party!",
+    "discountCode": "BIRTHDAY15",
+    "validUntil": "2024-05-31",
+    "bannerImageUrl": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=200&fit=crop"
+  },
+  {
+    "Id": 3,
+    "title": "Mother's Day Sweet Deal",
+    "description": "Show mom you care with 15% off all custom cakes. Perfect for celebrating the special women in your life.",
+    "discountCode": "MOM15",
+    "validUntil": "2024-05-12",
+    "bannerImageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=400&h=200&fit=crop"
+  },
+  {
+    "Id": 4,
+    "title": "Graduation Celebration",
+    "description": "Celebrate achievements with 25% off graduation-themed cakes. Perfect for marking this milestone!",
+    "discountCode": "GRAD25",
+    "validUntil": "2024-07-15",
+    "bannerImageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=200&fit=crop"
+  }
+]
